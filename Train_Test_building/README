@@ -1,0 +1,11 @@
+code usage:
+1. cnt_temp_during_equal.py: compute the number of the relation we want to combine
+2. delete_other_relation.py: delete the relation we don't used for classification in this time
+3. score_prf.py: compute the prf score
+4. divide_dataset.py: divide the dataset into dev and test set.
+
+data usage:
+TERB_train_divide: the training data for neural network of TERB.
+Test_cause_network: the test data of causal relation for neural network.
+Test_String: the test data of 3 classes classification and 2 classes classification for neural network
+Test_cnt: the test data for Holmes generate by code: /Holmes/IISVSRB_record.java
