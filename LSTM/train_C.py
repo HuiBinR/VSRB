@@ -118,7 +118,7 @@ with tf.Graph().as_default():
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step,name="train_op")
 
         # Output directory for models and summaries
-        timestamp = str(int(time.time())))
+        timestamp = str(int(time.time()))
 
 
         # Checkpoint directory. Tensorflow assumes this directory already exists so we need to create it
