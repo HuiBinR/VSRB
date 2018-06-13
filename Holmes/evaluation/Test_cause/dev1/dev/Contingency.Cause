@@ -1,0 +1,909 @@
+1 Contingency.Cause=236|Contingency.Condition=60|
+
+
+3 Contingency.Cause=195|Contingency.Condition=29|
+
+4 Contingency.Cause=527|Contingency.Condition=136|
+
+5 Contingency.Cause=143|Contingency.Condition=28|
+
+6 Contingency.Cause=175|Contingency.Condition=11|
+
+
+8 Contingency.Cause=134|Contingency.Condition=24|
+
+9 Contingency.Cause=84|Contingency.Condition=6|
+
+10 Contingency.Cause=77|Contingency.Condition=8|
+
+11 Contingency.Cause=196|Contingency.Condition=21|
+
+
+13 Contingency.Cause=121|Contingency.Condition=13|
+
+14 Contingency.Cause=101|Contingency.Condition=12|
+
+15 Contingency.Cause=143|Contingency.Condition=14|
+
+16 Contingency.Cause=104|Contingency.Condition=14|
+
+
+18 Contingency.Cause=56|Contingency.Condition=12|
+
+19 Contingency.Cause=122|Contingency.Condition=10|
+
+20 Contingency.Cause=189|Contingency.Condition=14|
+
+21 Contingency.Cause=170|Contingency.Condition=22|
+
+
+23 Contingency.Cause=131|Contingency.Condition=21|
+
+24 Contingency.Cause=139|Contingency.Condition=35|
+
+25 Contingency.Cause=139|Contingency.Condition=35|
+
+26 Contingency.Cause=153|Contingency.Condition=39|
+
+
+28 Contingency.Cause=193|Contingency.Condition=43|
+
+29 Contingency.Cause=86|Contingency.Condition=15|
+
+30 Contingency.Cause=77|Contingency.Condition=8|
+
+31 Contingency.Cause=127|Contingency.Condition=19|
+
+
+33 Contingency.Cause=106|Contingency.Condition=29|
+
+34 Contingency.Cause=70|Contingency.Condition=5|
+
+35 Contingency.Cause=167|Contingency.Condition=31|
+
+36 Contingency.Cause=105|Contingency.Condition=34|
+
+
+38 Contingency.Cause=180|Contingency.Condition=23|
+
+39 Contingency.Cause=212|Contingency.Condition=31|
+
+40 Contingency.Cause=105|Contingency.Condition=34|
+
+41 Contingency.Cause=169|Contingency.Condition=39|
+
+
+43 Contingency.Cause=13|Contingency.Condition=4|
+
+44 Contingency.Cause=130|Contingency.Condition=22|
+
+45 Contingency.Cause=138|Contingency.Condition=27|
+
+46 Contingency.Cause=157|Contingency.Condition=26|
+
+
+48 Contingency.Cause=138|Contingency.Condition=27|
+
+49 Contingency.Cause=219|Contingency.Condition=34|
+
+50 Contingency.Cause=138|Contingency.Condition=27|
+
+51 Contingency.Cause=157|Contingency.Condition=31|
+
+
+53 Contingency.Cause=197|Contingency.Condition=51|
+
+54 Contingency.Cause=107|Contingency.Condition=23|
+
+55 Contingency.Cause=104|Contingency.Condition=14|
+
+56 Contingency.Cause=155|Contingency.Condition=28|
+
+
+58 Contingency.Cause=107|Contingency.Condition=23|
+
+59 Contingency.Cause=167|Contingency.Condition=23|
+
+60 Contingency.Cause=125|Contingency.Condition=20|
+
+61 Contingency.Cause=9|
+
+
+63 Contingency.Cause=125|Contingency.Condition=20|
+
+64 Contingency.Cause=140|Contingency.Condition=28|
+
+65 Contingency.Cause=167|Contingency.Condition=23|
+
+66 Contingency.Cause=125|Contingency.Condition=20|
+
+
+68 Contingency.Cause=125|Contingency.Condition=20|
+
+69 Contingency.Cause=119|Contingency.Condition=20|
+
+70 Contingency.Cause=106|Contingency.Condition=10|
+
+71 Contingency.Cause=181|Contingency.Condition=33|
+
+
+73 Contingency.Cause=72|Contingency.Condition=13|
+
+74 Contingency.Cause=113|Contingency.Condition=13|
+
+75 Contingency.Cause=115|Contingency.Condition=15|
+
+76 Contingency.Cause=68|Contingency.Condition=18|
+
+
+78 Contingency.Cause=95|Contingency.Condition=8|
+
+79 Contingency.Cause=3|
+
+80 Contingency.Cause=67|Contingency.Condition=10|
+
+81 Contingency.Cause=95|Contingency.Condition=8|
+
+
+83 Contingency.Cause=90|Contingency.Condition=14|
+
+84 Contingency.Cause=95|Contingency.Condition=8|
+
+85 Contingency.Cause=101|Contingency.Condition=17|
+
+86 Contingency.Cause=95|Contingency.Condition=8|
+
+
+88 Contingency.Cause=111|Contingency.Condition=12|
+
+89 Contingency.Cause=125|Contingency.Condition=19|
+
+90 Contingency.Cause=73|Contingency.Condition=14|
+
+91 Contingency.Cause=56|Contingency.Condition=12|
+
+
+93 Contingency.Cause=92|Contingency.Condition=18|
+
+94 Contingency.Cause=73|Contingency.Condition=14|
+
+95 Contingency.Cause=95|Contingency.Condition=10|
+
+96 Contingency.Cause=71|Contingency.Condition=8|
+
+
+98 Contingency.Cause=73|Contingency.Condition=6|
+
+99 Contingency.Cause=71|Contingency.Condition=8|
+
+100 Contingency.Cause=101|Contingency.Condition=14|
+
+101 Contingency.Cause=95|Contingency.Condition=10|
+
+
+103 Contingency.Cause=109|Contingency.Condition=14|
+
+104 Contingency.Cause=71|Contingency.Condition=8|
+
+105 Contingency.Cause=90|Contingency.Condition=2|
+
+106 Contingency.Cause=99|Contingency.Condition=11|
+
+
+108 Contingency.Cause=184|Contingency.Condition=50|
+
+109 Contingency.Cause=206|Contingency.Condition=52|
+
+110 Contingency.Cause=98|Contingency.Condition=20|
+
+111 Contingency.Cause=98|Contingency.Condition=3|
+
+
+113 Contingency.Cause=107|Contingency.Condition=9|
+
+114 Contingency.Cause=85|Contingency.Condition=19|
+
+115 Contingency.Cause=171|Contingency.Condition=53|
+
+116 Contingency.Cause=144|Contingency.Condition=21|
+
+
+118 Contingency.Cause=244|Contingency.Condition=59|
+
+119 Contingency.Cause=130|Contingency.Condition=21|
+
+120 Contingency.Cause=169|Contingency.Condition=51|
+
+121 Contingency.Cause=185|Contingency.Condition=30|
+
+
+123 Contingency.Cause=134|Contingency.Condition=17|
+
+124 Contingency.Cause=419|Contingency.Condition=115|
+
+125 Contingency.Cause=292|Contingency.Condition=72|
+
+126 Contingency.Cause=328|Contingency.Condition=80|
+
+
+128 Contingency.Cause=344|Contingency.Condition=66|
+
+129 Contingency.Cause=208|Contingency.Condition=45|
+
+130 Contingency.Cause=151|Contingency.Condition=14|
+
+131 Contingency.Cause=65|Contingency.Condition=11|
+
+
+133 Contingency.Cause=65|Contingency.Condition=2|
+
+134 Contingency.Cause=76|Contingency.Condition=18|
+
+135 Contingency.Cause=65|Contingency.Condition=2|
+
+136 Contingency.Cause=91|Contingency.Condition=9|
+
+
+138 Contingency.Cause=76|Contingency.Condition=18|
+
+139 Contingency.Cause=94|Contingency.Condition=13|
+
+140 Contingency.Cause=80|Contingency.Condition=28|
+
+141 Contingency.Cause=10|Contingency.Condition=2|
+
+
+143 Contingency.Cause=80|Contingency.Condition=28|
+
+144 Contingency.Cause=86|Contingency.Condition=6|
+
+145 Contingency.Cause=94|Contingency.Condition=13|
+
+146 Contingency.Cause=80|Contingency.Condition=28|
+
+
+148 Contingency.Cause=80|Contingency.Condition=28|
+
+149 Contingency.Cause=60|Contingency.Condition=10|
+
+150 Contingency.Cause=101|Contingency.Condition=5|
+
+151 Contingency.Cause=95|Contingency.Condition=16|
+
+
+153 Contingency.Cause=101|Contingency.Condition=7|
+
+154 Contingency.Cause=60|Contingency.Condition=13|
+
+155 Contingency.Cause=122|Contingency.Condition=26|
+
+156 Contingency.Cause=86|Contingency.Condition=11|
+
+
+158 Contingency.Cause=80|Contingency.Condition=8|
+
+159 Contingency.Cause=86|Contingency.Condition=11|
+
+160 Contingency.Cause=105|Contingency.Condition=10|
+
+161 Contingency.Cause=122|Contingency.Condition=26|
+
+
+163 Contingency.Cause=122|Contingency.Condition=17|
+
+164 Contingency.Cause=86|Contingency.Condition=11|
+
+165 Contingency.Cause=107|Contingency.Condition=4|
+
+166 Contingency.Cause=126|Contingency.Condition=12|
+
+
+168 Contingency.Cause=123|Contingency.Condition=35|
+
+169 Contingency.Cause=165|Contingency.Condition=41|
+
+170 Contingency.Cause=185|Contingency.Condition=37|
+
+171 Contingency.Cause=217|Contingency.Condition=33|
+
+
+173 Contingency.Cause=157|Contingency.Condition=46|
+
+174 Contingency.Cause=151|Contingency.Condition=26|
+
+175 Contingency.Cause=31|Contingency.Condition=2|
+
+176 Contingency.Cause=151|Contingency.Condition=24|
+
+
+178 Contingency.Cause=167|Contingency.Condition=38|
+
+179 Contingency.Cause=157|Contingency.Condition=46|
+
+180 Contingency.Cause=151|Contingency.Condition=26|
+
+181 Contingency.Cause=176|Contingency.Condition=58|
+
+
+183 Contingency.Cause=175|Contingency.Condition=27|
+
+184 Contingency.Cause=163|Contingency.Condition=29|
+
+185 Contingency.Cause=223|Contingency.Condition=45|
+
+186 Contingency.Cause=324|Contingency.Condition=54|
+
+
+188 Contingency.Cause=80|Contingency.Condition=9|
+
+189 Contingency.Cause=104|Contingency.Condition=11|
+
+190 Contingency.Cause=110|Contingency.Condition=13|
+
+191 Contingency.Cause=150|Contingency.Condition=29|
+
+
+193 Contingency.Cause=115|Contingency.Condition=20|
+
+194 Contingency.Cause=95|Contingency.Condition=11|
+
+195 Contingency.Cause=7|Contingency.Condition=1|
+
+196 Contingency.Cause=81|Contingency.Condition=5|
+
+
+198 Contingency.Cause=107|Contingency.Condition=11|
+
+199 Contingency.Cause=115|Contingency.Condition=20|
+
+200 Contingency.Cause=95|Contingency.Condition=11|
+
+201 Contingency.Cause=112|Contingency.Condition=14|
+
+
+203 Contingency.Cause=78|Contingency.Condition=14|
+
+204 Contingency.Cause=111|Contingency.Condition=20|
+
+205 Contingency.Cause=138|Contingency.Condition=18|
+
+206 Contingency.Cause=128|Contingency.Condition=19|
+
+
+208 Contingency.Cause=134|Contingency.Condition=19|
+
+209 Contingency.Cause=190|Contingency.Condition=33|
+
+210 Contingency.Cause=195|Contingency.Condition=34|
+
+211 Contingency.Cause=292|Contingency.Condition=57|
+
+
+213 Contingency.Cause=142|Contingency.Condition=27|
+
+214 Contingency.Cause=111|Contingency.Condition=27|
+
+215 Contingency.Cause=187|Contingency.Condition=44|
+
+216 Contingency.Cause=148|Contingency.Condition=28|
+
+
+218 Contingency.Cause=131|Contingency.Condition=35|
+
+219 Contingency.Cause=178|Contingency.Condition=39|
+
+220 Contingency.Cause=77|Contingency.Condition=8|
+
+221 Contingency.Cause=138|Contingency.Condition=12|
+
+
+223 Contingency.Cause=60|Contingency.Condition=13|
+
+224 Contingency.Cause=92|Contingency.Condition=10|
+
+225 Contingency.Cause=130|Contingency.Condition=10|
+
+226 Contingency.Cause=128|Contingency.Condition=12|
+
+
+228 Contingency.Cause=106|Contingency.Condition=10|
+
+229 Contingency.Cause=131|Contingency.Condition=17|
+
+230 Contingency.Cause=152|Contingency.Condition=22|
+
+231 Contingency.Cause=144|Contingency.Condition=11|
+
+
+233 Contingency.Cause=126|Contingency.Condition=15|
+
+234 Contingency.Cause=110|Contingency.Condition=15|
+
+235 Contingency.Cause=6|
+
+236 Contingency.Cause=127|Contingency.Condition=18|
+
+
+238 Contingency.Cause=151|Contingency.Condition=19|
+
+239 Contingency.Cause=126|Contingency.Condition=15|
+
+240 Contingency.Cause=110|Contingency.Condition=15|
+
+241 Contingency.Cause=123|Contingency.Condition=26|
+
+
+243 Contingency.Cause=116|Contingency.Condition=12|
+
+244 Contingency.Cause=113|Contingency.Condition=13|
+
+245 Contingency.Cause=157|Contingency.Condition=30|
+
+246 Contingency.Cause=216|Contingency.Condition=26|
+
+
+248 Contingency.Cause=166|Contingency.Condition=20|
+
+249 Contingency.Cause=116|Contingency.Condition=10|
+
+250 Contingency.Cause=104|Contingency.Condition=13|
+
+251 Contingency.Cause=114|Contingency.Condition=18|
+
+
+253 Contingency.Cause=229|Contingency.Condition=31|
+
+254 Contingency.Cause=120|Contingency.Condition=14|
+
+255 Contingency.Cause=160|Contingency.Condition=16|
+
+256 Contingency.Cause=278|Contingency.Condition=39|
+
+
+258 Contingency.Cause=134|Contingency.Condition=20|
+
+259 Contingency.Cause=168|Contingency.Condition=17|
+
+260 Contingency.Cause=253|Contingency.Condition=59|
+
+261 Contingency.Cause=165|Contingency.Condition=26|
+
+
+263 Contingency.Cause=122|Contingency.Condition=18|
+
+264 Contingency.Cause=203|Contingency.Condition=31|
+
+265 Contingency.Cause=117|Contingency.Condition=12|
+
+266 Contingency.Cause=76|Contingency.Condition=18|
+
+
+268 Contingency.Cause=91|Contingency.Condition=9|
+
+269 Contingency.Cause=115|Contingency.Condition=36|
+
+270 Contingency.Cause=76|Contingency.Condition=18|
+
+271 Contingency.Cause=94|Contingency.Condition=13|
+
+
+273 Contingency.Cause=1|
+
+274 Contingency.Cause=64|Contingency.Condition=7|
+
+275 Contingency.Cause=80|Contingency.Condition=28|
+
+276 Contingency.Cause=86|Contingency.Condition=6|
+
+
+278 Contingency.Cause=80|Contingency.Condition=28|
+
+279 Contingency.Cause=130|Contingency.Condition=25|
+
+280 Contingency.Cause=80|Contingency.Condition=28|
+
+281 Contingency.Cause=60|Contingency.Condition=10|
+
+
+283 Contingency.Cause=95|Contingency.Condition=16|
+
+284 Contingency.Cause=167|Contingency.Condition=24|
+
+285 Contingency.Cause=171|Contingency.Condition=31|
+
+286 Contingency.Cause=178|Contingency.Condition=35|
+
+
+288 Contingency.Cause=167|Contingency.Condition=24|
+
+289 Contingency.Cause=204|Contingency.Condition=46|
+
+290 Contingency.Cause=155|Contingency.Condition=22|
+
+291 Contingency.Cause=8|Contingency.Condition=1|
+
+
+293 Contingency.Cause=155|Contingency.Condition=22|
+
+294 Contingency.Cause=173|Contingency.Condition=24|
+
+295 Contingency.Cause=204|Contingency.Condition=46|
+
+296 Contingency.Cause=155|Contingency.Condition=22|
+
+
+298 Contingency.Cause=155|Contingency.Condition=22|
+
+299 Contingency.Cause=215|Contingency.Condition=20|
+
+300 Contingency.Cause=171|Contingency.Condition=18|
+
+301 Contingency.Cause=196|Contingency.Condition=40|
+
+
+303 Contingency.Cause=90|Contingency.Condition=6|
+
+304 Contingency.Cause=145|Contingency.Condition=113|
+
+305 Contingency.Cause=175|Contingency.Condition=31|
+
+306 Contingency.Cause=225|Contingency.Condition=47|
+
+
+308 Contingency.Cause=241|Contingency.Condition=50|
+
+309 Contingency.Cause=222|Contingency.Condition=43|
+
+310 Contingency.Cause=162|Contingency.Condition=26|
+
+311 Contingency.Cause=283|Contingency.Condition=40|
+
+
+313 Contingency.Cause=144|Contingency.Condition=33|
+
+314 Contingency.Cause=261|Contingency.Condition=31|
+
+315 Contingency.Cause=151|Contingency.Condition=35|
+
+316 Contingency.Cause=235|Contingency.Condition=45|
+
+
+318 Contingency.Cause=139|Contingency.Condition=31|
+
+319 Contingency.Cause=117|Contingency.Condition=13|
+
+320 Contingency.Cause=136|Contingency.Condition=17|
+
+321 Contingency.Cause=160|Contingency.Condition=29|
+
+
+323 Contingency.Cause=247|Contingency.Condition=57|
+
+324 Contingency.Cause=135|Contingency.Condition=27|
+
+325 Contingency.Cause=139|Contingency.Condition=22|
+
+326 Contingency.Cause=218|Contingency.Condition=38|
+
+
+328 Contingency.Cause=362|Contingency.Condition=166|
+
+329 Contingency.Cause=327|Contingency.Condition=99|
+
+330 Contingency.Cause=216|Contingency.Condition=27|
+
+331 Contingency.Cause=160|Contingency.Condition=22|
+
+
+333 Contingency.Cause=133|Contingency.Condition=20|
+
+334 Contingency.Cause=253|Contingency.Condition=35|
+
+335 Contingency.Cause=110|Contingency.Condition=18|
+
+336 Contingency.Cause=256|Contingency.Condition=46|
+
+
+338 Contingency.Cause=241|Contingency.Condition=56|
+
+339 Contingency.Cause=279|Contingency.Condition=37|
+
+340 Contingency.Cause=295|Contingency.Condition=54|
+
+341 Contingency.Cause=237|Contingency.Condition=46|
+
+
+343 Contingency.Cause=229|Contingency.Condition=47|
+
+344 Contingency.Cause=149|Contingency.Condition=27|
+
+345 Contingency.Cause=149|Contingency.Condition=27|
+
+346 Contingency.Cause=147|Contingency.Condition=34|
+
+
+348 Contingency.Cause=201|Contingency.Condition=29|
+
+349 Contingency.Cause=197|Contingency.Condition=17|
+
+350 Contingency.Cause=173|Contingency.Condition=34|
+
+351 Contingency.Cause=170|Contingency.Condition=18|
+
+
+353 Contingency.Cause=207|Contingency.Condition=32|
+
+354 Contingency.Cause=201|Contingency.Condition=29|
+
+355 Contingency.Cause=197|Contingency.Condition=17|
+
+356 Contingency.Cause=149|Contingency.Condition=27|
+
+
+358 Contingency.Cause=161|Contingency.Condition=21|
+
+359 Contingency.Cause=234|Contingency.Condition=17|
+
+360 Contingency.Cause=161|Contingency.Condition=21|
+
+361 Contingency.Cause=234|Contingency.Condition=17|
+
+
+363 Contingency.Cause=127|Contingency.Condition=21|
+
+364 Contingency.Cause=166|Contingency.Condition=18|
+
+365 Contingency.Cause=160|Contingency.Condition=27|
+
+366 Contingency.Cause=110|Contingency.Condition=26|
+
+
+368 Contingency.Cause=122|Contingency.Condition=26|
+
+369 Contingency.Cause=114|Contingency.Condition=13|
+
+370 Contingency.Cause=127|Contingency.Condition=21|
+
+371 Contingency.Cause=98|Contingency.Condition=14|
+
+
+373 Contingency.Cause=102|Contingency.Condition=31|
+
+374 Contingency.Cause=126|Contingency.Condition=26|
+
+375 Contingency.Cause=208|Contingency.Condition=33|
+
+376 Contingency.Cause=181|Contingency.Condition=21|
+
+
+378 Contingency.Cause=161|Contingency.Condition=50|
+
+379 Contingency.Cause=165|Contingency.Condition=20|
+
+380 Contingency.Cause=121|Contingency.Condition=26|
+
+381 Contingency.Cause=197|Contingency.Condition=42|
+
+
+383 Contingency.Cause=252|Contingency.Condition=47|
+
+384 Contingency.Cause=170|Contingency.Condition=25|
+
+385 Contingency.Cause=291|Contingency.Condition=76|
+
+386 Contingency.Cause=349|Contingency.Condition=116|
+
+
+388 Contingency.Cause=126|Contingency.Condition=33|
+
+389 Contingency.Cause=154|Contingency.Condition=19|
+
+390 Contingency.Cause=123|Contingency.Condition=18|
+
+391 Contingency.Cause=187|Contingency.Condition=32|
+
+
+393 Contingency.Cause=195|Contingency.Condition=41|
+
+394 Contingency.Cause=195|Contingency.Condition=41|
+
+395 Contingency.Cause=191|Contingency.Condition=19|
+
+396 Contingency.Cause=169|Contingency.Condition=34|
+
+
+398 Contingency.Cause=134|Contingency.Condition=23|
+
+399 Contingency.Cause=165|Contingency.Condition=38|
+
+400 Contingency.Cause=191|Contingency.Condition=29|
+
+401 Contingency.Cause=130|Contingency.Condition=14|
+
+
+403 Contingency.Cause=410|Contingency.Condition=83|
+
+404 Contingency.Cause=218|Contingency.Condition=28|
+
+405 Contingency.Cause=243|Contingency.Condition=49|
+
+406 Contingency.Cause=243|Contingency.Condition=49|
+
+
+408 Contingency.Cause=172|Contingency.Condition=27|
+
+409 Contingency.Cause=196|Contingency.Condition=54|
+
+410 Contingency.Cause=174|Contingency.Condition=27|
+
+411 Contingency.Cause=165|Contingency.Condition=16|
+
+
+413 Contingency.Cause=154|Contingency.Condition=23|
+
+414 Contingency.Cause=182|Contingency.Condition=29|
+
+415 Contingency.Cause=180|Contingency.Condition=17|
+
+416 Contingency.Cause=375|Contingency.Condition=67|
+
+
+418 Contingency.Cause=176|Contingency.Condition=45|
+
+419 Contingency.Cause=390|Contingency.Condition=90|
+
+420 Contingency.Cause=181|Contingency.Condition=30|
+
+421 Contingency.Cause=452|Contingency.Condition=89|
+
+
+423 Contingency.Cause=156|Contingency.Condition=12|
+
+424 Contingency.Cause=156|Contingency.Condition=12|
+
+425 Contingency.Cause=209|Contingency.Condition=32|
+
+426 Contingency.Cause=327|Contingency.Condition=46|
+
+
+428 Contingency.Cause=218|Contingency.Condition=47|
+
+429 Contingency.Cause=218|Contingency.Condition=47|
+
+430 Contingency.Cause=196|Contingency.Condition=39|
+
+431 Contingency.Cause=172|Contingency.Condition=47|
+
+
+433 Contingency.Cause=124|Contingency.Condition=14|
+
+434 Contingency.Cause=124|Contingency.Condition=14|
+
+435 Contingency.Cause=84|Contingency.Condition=13|
+
+436 Contingency.Cause=71|Contingency.Condition=9|
+
+
+438 Contingency.Cause=124|Contingency.Condition=14|
+
+439 Contingency.Cause=84|Contingency.Condition=13|
+
+440 Contingency.Cause=147|Contingency.Condition=33|
+
+441 Contingency.Cause=109|Contingency.Condition=14|
+
+
+443 Contingency.Cause=133|Contingency.Condition=28|
+
+444 Contingency.Cause=221|Contingency.Condition=34|
+
+445 Contingency.Cause=194|Contingency.Condition=30|
+
+446 Contingency.Cause=308|Contingency.Condition=53|
+
+
+448 Contingency.Cause=373|Contingency.Condition=106|
+
+449 Contingency.Cause=194|Contingency.Condition=30|
+
+450 Contingency.Cause=166|Contingency.Condition=18|
+
+451 Contingency.Cause=262|Contingency.Condition=42|
+
+
+453 Contingency.Cause=285|Contingency.Condition=30|
+
+454 Contingency.Cause=129|Contingency.Condition=26|
+
+455 Contingency.Cause=141|Contingency.Condition=22|
+
+456 Contingency.Cause=248|Contingency.Condition=38|
+
+
+458 Contingency.Cause=178|Contingency.Condition=17|
+
+459 Contingency.Cause=170|Contingency.Condition=24|
+
+460 Contingency.Cause=145|Contingency.Condition=23|
+
+461 Contingency.Cause=161|Contingency.Condition=15|
+
+
+463 Contingency.Cause=116|Contingency.Condition=9|
+
+464 Contingency.Cause=109|Contingency.Condition=13|
+
+465 Contingency.Cause=114|Contingency.Condition=12|
+
+466 Contingency.Cause=152|Contingency.Condition=9|
+
+
+468 Contingency.Cause=187|Contingency.Condition=16|
+
+469 Contingency.Cause=221|Contingency.Condition=28|
+
+470 Contingency.Cause=159|Contingency.Condition=53|
+
+471 Contingency.Cause=192|Contingency.Condition=36|
+
+
+473 Contingency.Cause=184|Contingency.Condition=36|
+
+474 Contingency.Cause=218|Contingency.Condition=95|
+
+475 Contingency.Cause=267|Contingency.Condition=32|
+
+476 Contingency.Cause=276|Contingency.Condition=53|
+
+
+478 Contingency.Cause=188|Contingency.Condition=82|
+
+479 Contingency.Cause=195|Contingency.Condition=35|
+
+480 Contingency.Cause=213|Contingency.Condition=30|
+
+481 Contingency.Cause=232|Contingency.Condition=27|
+
+
+483 Contingency.Cause=141|Contingency.Condition=13|
+
+484 Contingency.Cause=141|Contingency.Condition=13|
+
+485 Contingency.Cause=232|Contingency.Condition=27|
+
+486 Contingency.Cause=198|Contingency.Condition=27|
+
+
+488 Contingency.Cause=179|Contingency.Condition=63|
+
+489 Contingency.Cause=301|Contingency.Condition=75|
+
+490 Contingency.Cause=172|Contingency.Condition=22|
+
+491 Contingency.Cause=249|Contingency.Condition=43|
+
+
+493 Contingency.Cause=237|Contingency.Condition=39|
+
+494 Contingency.Cause=126|Contingency.Condition=20|
+
+495 Contingency.Cause=218|Contingency.Condition=27|
+
+496 Contingency.Cause=197|Contingency.Condition=28|
+
+
+498 Contingency.Cause=135|Contingency.Condition=15|
+
+499 Contingency.Cause=92|Contingency.Condition=6|
+
+500 Contingency.Cause=116|Contingency.Condition=12|
+
+501 Contingency.Cause=177|Contingency.Condition=23|
+
+
+503 Contingency.Cause=146|Contingency.Condition=29|
+
+504 Contingency.Cause=172|Contingency.Condition=34|
+
+505 Contingency.Cause=239|Contingency.Condition=37|
+

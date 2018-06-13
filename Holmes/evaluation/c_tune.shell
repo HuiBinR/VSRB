@@ -1,0 +1,25 @@
+c=1
+d=0.5
+chu=100
+a_c=1
+b_e=1
+for file in ./Test_Ding/Test_C/*
+do
+	dir_=${file}"/dev"
+	echo "${dir_}"
+	for((a=2;a<=12;a++));
+		do 
+		echo "a=${a_c}"
+		for((b=1;b<=100;b++));
+			do
+			if [ $a_c == $c ]
+			then
+				continue
+			fi
+			#echo "a=${a_c}, b=${b_e}"
+			nohup python3 score_the_add_cnt_C.py ${dir_} $a_c $b_e ${file##*/} 2018_6_10 >./nohup/c_dev/${file##*/}/nohup.${a_c}_${b_e} &
+			b_e=$(echo "scale=2; $b /  $chu + $c "|bc -l)
+		done
+		a_c=$(echo "scale=2; $a /  $chu + $c + $d " |bc -l)
+	done
+done

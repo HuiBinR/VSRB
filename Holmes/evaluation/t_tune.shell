@@ -1,0 +1,14 @@
+chu=100
+a_de=1
+for file in /home/xzdong/rhb/Ding/Test_Ding/Test_T/*
+do
+echo "$file"
+	dir_=${file}"/dev"
+	echo "${dir_}"
+	for((a=55;a<=85;a++));
+	do 
+		a_de=$(echo "scale=2; $a /  $chu "|bc -l)
+		#echo "$a_de"
+		nohup python3 score_the_add_cnt_T.py ${dir_} $a_de ${file##*/} 2018_6_10 >./nohup/t_dev/${file##*/}nohup.${a_de} &
+	done
+done

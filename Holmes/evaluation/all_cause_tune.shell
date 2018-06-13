@@ -1,0 +1,14 @@
+chu=100
+a_de=1
+for file in ./Test_cause/*
+do
+echo "$file"
+	dir_=${file}"/dev"
+	echo "${dir_}"
+	for((a=1;a<=100;a++));
+	do 
+		a_de=$(echo "scale=2; $a /  $chu "|bc -l)
+		#echo "$a_de"
+		nohup python3 score_the_add_cnt_cause.py ${dir_} $a_de ${file##*/} 2018_6_12_cause >./nohup/t_dev/${file##*/}nohup.${a_de}_cause &
+	done
+done
