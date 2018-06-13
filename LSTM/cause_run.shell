@@ -1,0 +1,9 @@
+train=cause
+	for file in ./Discourse/data/Test_cause_network/*
+	do
+	
+		test=${file##*/}
+		echo "train=${train}, test=${test}"
+		nohup python3 train_cause.py ${train} ${test} ${train}
+		
+	done
