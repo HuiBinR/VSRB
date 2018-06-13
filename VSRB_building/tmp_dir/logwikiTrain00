@@ -1,0 +1,108 @@
+Creating train lmdb...
+I0209 17:12:08.554664 21912 convert_imageset.cpp:89] A total of 80000 images.
+I0209 17:12:08.554989 21912 db_lmdb.cpp:35] Opened lmdb /newVolume2/yaoliang/ImageSearch/example/wikiTrain00
+libpng warning: Data error in compressed datastream in zTXt chunk
+I0209 17:12:27.869328 21912 convert_imageset.cpp:147] Processed 1000 files.
+I0209 17:13:21.780194 21912 convert_imageset.cpp:147] Processed 2000 files.
+I0209 17:14:26.982061 21912 convert_imageset.cpp:147] Processed 3000 files.
+Corrupt JPEG data: 7201 extraneous bytes before marker 0xd9
+I0209 17:15:38.173158 21912 convert_imageset.cpp:147] Processed 4000 files.
+Premature end of JPEG file
+I0209 17:16:47.606683 21912 convert_imageset.cpp:147] Processed 5000 files.
+I0209 17:17:59.314049 21912 convert_imageset.cpp:147] Processed 6000 files.
+I0209 17:19:00.148154 21912 convert_imageset.cpp:147] Processed 7000 files.
+I0209 17:19:57.632783 21912 convert_imageset.cpp:147] Processed 8000 files.
+I0209 17:20:54.699707 21912 convert_imageset.cpp:147] Processed 9000 files.
+I0209 17:21:45.610682 21912 convert_imageset.cpp:147] Processed 10000 files.
+I0209 17:23:04.133527 21912 convert_imageset.cpp:147] Processed 11000 files.
+I0209 17:24:24.581655 21912 convert_imageset.cpp:147] Processed 12000 files.
+I0209 17:25:50.376426 21912 convert_imageset.cpp:147] Processed 13000 files.
+Premature end of JPEG file
+I0209 17:27:02.541344 21912 convert_imageset.cpp:147] Processed 14000 files.
+Corrupt JPEG data: 461 extraneous bytes before marker 0xd9
+I0209 17:28:18.181922 21912 convert_imageset.cpp:147] Processed 15000 files.
+I0209 17:29:41.941579 21912 convert_imageset.cpp:147] Processed 16000 files.
+I0209 17:31:02.390333 21912 convert_imageset.cpp:147] Processed 17000 files.
+I0209 17:31:59.299476 21912 convert_imageset.cpp:147] Processed 18000 files.
+I0209 17:32:59.522410 21912 convert_imageset.cpp:147] Processed 19000 files.
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+I0209 17:34:00.901897 21912 convert_imageset.cpp:147] Processed 20000 files.
+I0209 17:34:59.426519 21912 convert_imageset.cpp:147] Processed 21000 files.
+I0209 17:35:55.069092 21912 convert_imageset.cpp:147] Processed 22000 files.
+I0209 17:36:50.953953 21912 convert_imageset.cpp:147] Processed 23000 files.
+I0209 17:37:52.443850 21912 convert_imageset.cpp:147] Processed 24000 files.
+Premature end of JPEG file
+I0209 17:38:49.223742 21912 convert_imageset.cpp:147] Processed 25000 files.
+I0209 17:39:41.253283 21912 convert_imageset.cpp:147] Processed 26000 files.
+I0209 17:40:41.816663 21912 convert_imageset.cpp:147] Processed 27000 files.
+I0209 17:41:34.232471 21912 convert_imageset.cpp:147] Processed 28000 files.
+libpng warning: Buffer error in compressed datastream in iCCP chunk
+libpng warning: Profile size field missing from iCCP chunk
+I0209 17:42:28.445746 21912 convert_imageset.cpp:147] Processed 29000 files.
+I0209 17:43:22.771308 21912 convert_imageset.cpp:147] Processed 30000 files.
+I0209 17:44:23.123021 21912 convert_imageset.cpp:147] Processed 31000 files.
+I0209 17:45:18.698587 21912 convert_imageset.cpp:147] Processed 32000 files.
+I0209 17:46:20.457237 21912 convert_imageset.cpp:147] Processed 33000 files.
+I0209 17:47:16.917407 21912 convert_imageset.cpp:147] Processed 34000 files.
+I0209 17:48:11.834607 21912 convert_imageset.cpp:147] Processed 35000 files.
+Premature end of JPEG file
+I0209 17:49:08.507797 21912 convert_imageset.cpp:147] Processed 36000 files.
+I0209 17:50:01.558647 21912 convert_imageset.cpp:147] Processed 37000 files.
+I0209 17:51:03.085798 21912 convert_imageset.cpp:147] Processed 38000 files.
+I0209 17:51:56.503509 21912 convert_imageset.cpp:147] Processed 39000 files.
+Premature end of JPEG file
+I0209 17:52:49.883080 21912 convert_imageset.cpp:147] Processed 40000 files.
+libpng warning: Ignoring gAMA chunk with gamma=0
+I0209 17:53:41.331704 21912 convert_imageset.cpp:147] Processed 41000 files.
+Premature end of JPEG file
+I0209 17:54:44.560279 21912 convert_imageset.cpp:147] Processed 42000 files.
+I0209 17:55:41.352666 21912 convert_imageset.cpp:147] Processed 43000 files.
+I0209 17:56:38.289949 21912 convert_imageset.cpp:147] Processed 44000 files.
+I0209 17:57:32.631491 21912 convert_imageset.cpp:147] Processed 45000 files.
+Premature end of JPEG file
+I0209 17:58:31.303347 21912 convert_imageset.cpp:147] Processed 46000 files.
+I0209 17:59:31.551311 21912 convert_imageset.cpp:147] Processed 47000 files.
+I0209 18:00:49.858937 21912 convert_imageset.cpp:147] Processed 48000 files.
+I0209 18:02:02.310575 21912 convert_imageset.cpp:147] Processed 49000 files.
+I0209 18:03:34.594914 21912 convert_imageset.cpp:147] Processed 50000 files.
+Premature end of JPEG file
+I0209 18:04:39.957358 21912 convert_imageset.cpp:147] Processed 51000 files.
+I0209 18:05:41.631486 21912 convert_imageset.cpp:147] Processed 52000 files.
+I0209 18:06:41.188253 21912 convert_imageset.cpp:147] Processed 53000 files.
+libpng warning: Ignoring gAMA chunk with gamma=0
+libpng warning: Ignoring attempt to set negative chromaticity value
+libpng warning: Ignoring attempt to set cHRM RGB triangle with zero area
+I0209 18:07:52.128191 21912 convert_imageset.cpp:147] Processed 54000 files.
+Premature end of JPEG file
+I0209 18:08:51.210048 21912 convert_imageset.cpp:147] Processed 55000 files.
+I0209 18:09:55.984205 21912 convert_imageset.cpp:147] Processed 56000 files.
+Premature end of JPEG file
+I0209 18:10:52.180093 21912 convert_imageset.cpp:147] Processed 57000 files.
+Corrupt JPEG data: 151 extraneous bytes before marker 0xd9
+I0209 18:11:50.547292 21912 convert_imageset.cpp:147] Processed 58000 files.
+I0209 18:12:45.641095 21912 convert_imageset.cpp:147] Processed 59000 files.
+Corrupt JPEG data: premature end of data segment
+I0209 18:13:41.746381 21912 convert_imageset.cpp:147] Processed 60000 files.
+I0209 18:14:43.117374 21912 convert_imageset.cpp:147] Processed 61000 files.
+libpng warning: zTXt: CRC error
+I0209 18:15:37.809223 21912 convert_imageset.cpp:147] Processed 62000 files.
+I0209 18:16:34.170022 21912 convert_imageset.cpp:147] Processed 63000 files.
+I0209 18:17:30.921933 21912 convert_imageset.cpp:147] Processed 64000 files.
+I0209 18:18:27.938953 21912 convert_imageset.cpp:147] Processed 65000 files.
+I0209 18:19:25.679077 21912 convert_imageset.cpp:147] Processed 66000 files.
+I0209 18:20:25.265934 21912 convert_imageset.cpp:147] Processed 67000 files.
+I0209 18:21:34.657764 21912 convert_imageset.cpp:147] Processed 68000 files.
+I0209 18:23:00.513598 21912 convert_imageset.cpp:147] Processed 69000 files.
+I0209 18:24:38.361640 21912 convert_imageset.cpp:147] Processed 70000 files.
+I0209 18:26:20.489178 21912 convert_imageset.cpp:147] Processed 71000 files.
+I0209 18:28:27.426842 21912 convert_imageset.cpp:147] Processed 72000 files.
+I0209 18:30:09.034710 21912 convert_imageset.cpp:147] Processed 73000 files.
+I0209 18:31:45.980536 21912 convert_imageset.cpp:147] Processed 74000 files.
+I0209 18:33:24.034199 21912 convert_imageset.cpp:147] Processed 75000 files.
+Premature end of JPEG file
+I0209 18:34:53.802994 21912 convert_imageset.cpp:147] Processed 76000 files.
+I0209 18:36:21.792062 21912 convert_imageset.cpp:147] Processed 77000 files.
+I0209 18:37:50.742583 21912 convert_imageset.cpp:147] Processed 78000 files.
+Premature end of JPEG file
+I0209 18:39:20.789265 21912 convert_imageset.cpp:147] Processed 79000 files.
+I0209 18:41:11.725978 21912 convert_imageset.cpp:147] Processed 80000 files.

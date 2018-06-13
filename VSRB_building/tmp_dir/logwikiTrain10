@@ -1,0 +1,96 @@
+Creating train lmdb...
+I0210 13:33:05.858021 17205 convert_imageset.cpp:89] A total of 62837 images.
+I0210 13:33:05.940655 17205 db_lmdb.cpp:35] Opened lmdb /newVolume2/yaoliang/ImageSearch/example/wikiTrain10
+I0210 13:34:20.345937 17205 convert_imageset.cpp:147] Processed 1000 files.
+I0210 13:35:31.903367 17205 convert_imageset.cpp:147] Processed 2000 files.
+I0210 13:36:43.925582 17205 convert_imageset.cpp:147] Processed 3000 files.
+I0210 13:37:51.473147 17205 convert_imageset.cpp:147] Processed 4000 files.
+libpng warning: Ignoring attempt to set negative chromaticity value
+libpng warning: Ignoring attempt to set cHRM RGB triangle with zero area
+I0210 13:38:53.036311 17205 convert_imageset.cpp:147] Processed 5000 files.
+I0210 13:40:03.559960 17205 convert_imageset.cpp:147] Processed 6000 files.
+I0210 13:41:18.131063 17205 convert_imageset.cpp:147] Processed 7000 files.
+I0210 13:42:23.041573 17205 convert_imageset.cpp:147] Processed 8000 files.
+Premature end of JPEG file
+I0210 13:43:34.717566 17205 convert_imageset.cpp:147] Processed 9000 files.
+libpng warning: Ignoring gAMA chunk with gamma=0
+libpng warning: Ignoring attempt to set negative chromaticity value
+libpng warning: Ignoring attempt to set cHRM RGB triangle with zero area
+I0210 13:44:46.938925 17205 convert_imageset.cpp:147] Processed 10000 files.
+I0210 13:45:53.316601 17205 convert_imageset.cpp:147] Processed 11000 files.
+Corrupt JPEG data: 335 extraneous bytes before marker 0xd9
+I0210 13:46:56.546263 17205 convert_imageset.cpp:147] Processed 12000 files.
+I0210 13:48:02.941953 17205 convert_imageset.cpp:147] Processed 13000 files.
+I0210 13:49:07.042320 17205 convert_imageset.cpp:147] Processed 14000 files.
+I0210 13:50:15.700237 17205 convert_imageset.cpp:147] Processed 15000 files.
+I0210 13:51:28.116081 17205 convert_imageset.cpp:147] Processed 16000 files.
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+I0210 13:52:33.724670 17205 convert_imageset.cpp:147] Processed 17000 files.
+I0210 13:53:43.612337 17205 convert_imageset.cpp:147] Processed 18000 files.
+libpng warning: Buffer error in compressed datastream in iCCP chunk
+libpng warning: Profile size field missing from iCCP chunk
+I0210 13:54:57.029619 17205 convert_imageset.cpp:147] Processed 19000 files.
+I0210 13:56:09.479344 17205 convert_imageset.cpp:147] Processed 20000 files.
+I0210 13:57:16.372161 17205 convert_imageset.cpp:147] Processed 21000 files.
+libpng warning: Buffer error in compressed datastream in iCCP chunk
+libpng warning: Profile size field missing from iCCP chunk
+I0210 13:58:25.725783 17205 convert_imageset.cpp:147] Processed 22000 files.
+I0210 13:59:33.304862 17205 convert_imageset.cpp:147] Processed 23000 files.
+I0210 14:00:58.710690 17205 convert_imageset.cpp:147] Processed 24000 files.
+I0210 14:02:42.213881 17205 convert_imageset.cpp:147] Processed 25000 files.
+I0210 14:04:08.045945 17205 convert_imageset.cpp:147] Processed 26000 files.
+I0210 14:05:39.688499 17205 convert_imageset.cpp:147] Processed 27000 files.
+I0210 14:06:55.687104 17205 convert_imageset.cpp:147] Processed 28000 files.
+I0210 14:08:16.988543 17205 convert_imageset.cpp:147] Processed 29000 files.
+I0210 14:09:27.877941 17205 convert_imageset.cpp:147] Processed 30000 files.
+I0210 14:10:47.994606 17205 convert_imageset.cpp:147] Processed 31000 files.
+libpng warning: Buffer error in compressed datastream in iCCP chunk
+libpng warning: Profile size field missing from iCCP chunk
+I0210 14:12:09.367375 17205 convert_imageset.cpp:147] Processed 32000 files.
+Premature end of JPEG file
+I0210 14:13:25.591444 17205 convert_imageset.cpp:147] Processed 33000 files.
+I0210 14:14:32.632869 17205 convert_imageset.cpp:147] Processed 34000 files.
+I0210 14:15:46.815203 17205 convert_imageset.cpp:147] Processed 35000 files.
+I0210 14:17:02.755930 17205 convert_imageset.cpp:147] Processed 36000 files.
+I0210 14:18:16.910801 17205 convert_imageset.cpp:147] Processed 37000 files.
+libpng warning: Buffer error in compressed datastream in iCCP chunk
+libpng warning: Profile size field missing from iCCP chunk
+I0210 14:19:31.886611 17205 convert_imageset.cpp:147] Processed 38000 files.
+libpng warning: Ignoring incorrect cHRM value when sRGB is also present
+wx=0.345750, wy=0.358550, rx=0.648500, ry=0.330880
+gx=0.321210, gy=0.597870, bx=0.155890, by=0.066040
+I0210 14:20:42.610970 17205 convert_imageset.cpp:147] Processed 39000 files.
+I0210 14:21:55.416354 17205 convert_imageset.cpp:147] Processed 40000 files.
+Premature end of JPEG file
+I0210 14:23:03.876588 17205 convert_imageset.cpp:147] Processed 41000 files.
+I0210 14:24:05.760207 17205 convert_imageset.cpp:147] Processed 42000 files.
+I0210 14:25:17.256639 17205 convert_imageset.cpp:147] Processed 43000 files.
+I0210 14:26:28.917863 17205 convert_imageset.cpp:147] Processed 44000 files.
+I0210 14:27:43.141410 17205 convert_imageset.cpp:147] Processed 45000 files.
+I0210 14:29:01.210705 17205 convert_imageset.cpp:147] Processed 46000 files.
+libpng warning: Ignoring attempt to set negative chromaticity value
+libpng warning: Ignoring attempt to set cHRM RGB triangle with zero area
+I0210 14:30:09.047879 17205 convert_imageset.cpp:147] Processed 47000 files.
+libpng warning: Buffer error in compressed datastream in iCCP chunk
+libpng warning: Profile size field missing from iCCP chunk
+I0210 14:31:15.381120 17205 convert_imageset.cpp:147] Processed 48000 files.
+I0210 14:32:36.487694 17205 convert_imageset.cpp:147] Processed 49000 files.
+I0210 14:33:40.146797 17205 convert_imageset.cpp:147] Processed 50000 files.
+I0210 14:34:56.854946 17205 convert_imageset.cpp:147] Processed 51000 files.
+libpng warning: tRNS chunk has out-of-range samples for bit_depth
+libpng warning: Ignoring invalid time value
+I0210 14:36:04.865355 17205 convert_imageset.cpp:147] Processed 52000 files.
+I0210 14:37:12.794450 17205 convert_imageset.cpp:147] Processed 53000 files.
+I0210 14:38:18.610837 17205 convert_imageset.cpp:147] Processed 54000 files.
+I0210 14:39:29.977092 17205 convert_imageset.cpp:147] Processed 55000 files.
+I0210 14:40:33.635725 17205 convert_imageset.cpp:147] Processed 56000 files.
+Premature end of JPEG file
+I0210 14:41:39.369016 17205 convert_imageset.cpp:147] Processed 57000 files.
+I0210 14:42:55.001245 17205 convert_imageset.cpp:147] Processed 58000 files.
+I0210 14:44:03.892523 17205 convert_imageset.cpp:147] Processed 59000 files.
+libpng warning: Ignoring gAMA chunk with gamma=0
+I0210 14:45:13.500265 17205 convert_imageset.cpp:147] Processed 60000 files.
+Premature end of JPEG file
+I0210 14:46:24.257212 17205 convert_imageset.cpp:147] Processed 61000 files.
+I0210 14:47:33.166363 17205 convert_imageset.cpp:147] Processed 62000 files.
+I0210 14:48:33.923380 17205 convert_imageset.cpp:153] Processed 62837 files.
