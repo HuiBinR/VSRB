@@ -1,0 +1,10 @@
+train=cause
+
+	for file in ./data/Test_cause_network/*
+	do
+	
+		test=${file##*/}
+		echo "train=${train}, test=${test}"
+		nohup python3 train_C.py ${train} ${test} ${train} >./nohup/nohup_${train}_${test}_C
+		
+	done

@@ -1,0 +1,11 @@
+for train in "TERB_Train"
+do
+	for file in ./data/Test_network/Test_Temporal/*
+	do
+	
+		test=${file##*/}
+		echo "train=${train}, test=${test}"
+		nohup python3 train_T.py ${train} ${test} ${train} >./nohup/nohup_${train}_${test}_T
+		
+	done
+done
