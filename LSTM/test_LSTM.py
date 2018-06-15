@@ -88,12 +88,8 @@ with graph.as_default():
         def evaluate(num_class, true_label, predicition):
             predictions = predicition.tolist()
             true_label = true_label.tolist()
-            print(predictions)
-            # print(prediction)
             num_classes = num_class
-            # print(num_class)
             true_label = list(true_label)
-            # print(true_label)
             list_show_answer = []
             if num_classes == 3:
                 # Comparison, Contingency, Expansion
