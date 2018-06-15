@@ -77,7 +77,6 @@ public class IISVSRBPRF_record extends Thread {
 		loadTestSimiImgList2Map(test_simi_img_list_path);
 		loadRela2IDPairTreeset2HashMap(giga_merge, lucene_size);
 		evaluate(test_merge, result, lucene_size, simi_img_size, top_prf);
-		#printPerformance();
 	}
 
 	public void loadTestSimiImgList2Map(String test_simi_img_list_path) throws Exception {
