@@ -1,5 +1,5 @@
 train=cause
-	for file in ./Discourse/data/Test_cause_network/*
+	for file in ./data/Test_cause_network/*
 	do
 	
 		test=${file##*/}
