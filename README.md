@@ -86,5 +86,12 @@ The code in file CNN is used to train the CNN model.
 
 
 ---
+The data are shared on figshare: https://figshare.com/s/cf3869dcde770b58d4df
+- sep.zip: The files named with each ids which store the captions of each images.
+- train.zip: The extracted Gigaword data for VSRB building.
+- data.zip: The training data for all the neural network (Bi-LSTM and CNN).
+- data_VSRB.zip: The data for VSRB building.
+
+---
 
 There are .sh/.shell files in most of the code file, you can use the code according to it.
